@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Categoría - Blog de Rafael Avelar</title>
-        <link>/categories/</link>
+        <link>rafavelar.github.io/categories/</link>
         <description>Categories - Categoría - Blog de Rafael Avelar</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><atom:link href="/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><atom:link href="rafavelar.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
